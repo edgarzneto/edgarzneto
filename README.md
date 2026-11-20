@@ -8,7 +8,7 @@ Analista **TOTVS Protheus** técnico-funcional, em Fortaleza-CE. Trabalho com im
 
 - **Implantação e análise de negócios:** levantamento de processos, especificação na metodologia MIT da TOTVS (MIT041, MIT044), parametrização, treinamento e acompanhamento da virada.
 - **Ambiente e release:** atualizações do 12.1.27 ao 12.1.2510, em TOTVS Cloud e on-premise.
-- **Desenvolvimento:** ADVPL e TLPP (MVC, APIs REST, pontos de entrada e relatórios), com testes automatizados em ProBat.
+- **Desenvolvimento:** ADVPL e TLPP (MVC, APIs REST, pontos de entrada e relatórios), com testes automatizados.
 - **Fiscal e dados:** NF-e, NFC-e, Reforma Tributária (IBS e CBS), SQL Server, PostgreSQL e Power BI.
 
 ## Tecnologias
@@ -16,7 +16,6 @@ Analista **TOTVS Protheus** técnico-funcional, em Fortaleza-CE. Trabalho com im
 ![TOTVS Protheus](https://img.shields.io/badge/TOTVS%20Protheus-2f6497?style=flat-square)
 ![ADVPL](https://img.shields.io/badge/ADVPL-2f6497?style=flat-square)
 ![TLPP](https://img.shields.io/badge/TLPP-2f6497?style=flat-square)
-![ProBat](https://img.shields.io/badge/ProBat-2f6497?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-172136?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172136?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-172136?style=flat-square)
