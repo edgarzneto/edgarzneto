@@ -1,6 +1,6 @@
 # Olá, eu sou o Edgar Araújo Neto
 
-Analista **TOTVS Protheus** técnico-funcional, em Fortaleza-CE. Trabalho com implantação, sustentação, ambiente e desenvolvimento ADVPL/TLPP, com foco no varejo: postos de combustíveis e supermercados.
+Analista **TOTVS Protheus**, em Fortaleza-CE, com atuação de ponta a ponta: análise de negócios, implantação, sustentação, ambiente e desenvolvimento ADVPL/TLPP, com foco no varejo: postos de combustíveis e supermercados.
 
 **Portfólio:** [edgarzneto.github.io](https://edgarzneto.github.io)
 
